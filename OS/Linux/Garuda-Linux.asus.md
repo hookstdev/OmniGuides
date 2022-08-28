@@ -38,6 +38,22 @@ systemctl start battery-charge-threshold.service
 systemctl enable battery-charge-threshold.service
 ```
 
+- ## Linux Kernel
+```
+sudo micro /etc/pacman.conf
+```
+```
+[g14]
+SigLevel = DatabaseNever Optional TrustAll
+Server = https://arch.asus-linux.org
+```
+```
+pacman -Sy
+paru linux-g14
+grubup
+```
+# Reboot
+
 # Run the bash files in `~/.config/autostart/`
 
 # [Proceed](https://github.com/Hooke012/OmniGuides/blob/main/Software/Linux.md)
