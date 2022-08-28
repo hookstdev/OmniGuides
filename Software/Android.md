@@ -26,6 +26,7 @@ Simple Calculator
 Simple Calendar
 Simple Contacts
 Simple Gallery
+Simple SMS Messenger
 Termux
 Vector Camera
 Vimusic
