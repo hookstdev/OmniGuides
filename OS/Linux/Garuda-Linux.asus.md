@@ -47,8 +47,9 @@ sudo micro /etc/pacman.conf
 SigLevel = DatabaseNever Optional TrustAll
 Server = https://arch.asus-linux.org
 ```
+ctrl+fn+end<br>ctrl+v<br>ctrl+s<br>ctrl+q<br>
 ```
-pacman -Sy
+sudo pacman -Sy
 paru linux-g14
 grubup
 ```
