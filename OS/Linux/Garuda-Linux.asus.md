@@ -53,8 +53,8 @@ sudo pacman -Sy
 paru linux-g14
 sudo micro /etc/default/grub
 ```
-grubup
 ```
+grubup
 ```
 # Reboot
 
