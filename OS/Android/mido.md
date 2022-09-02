@@ -3,7 +3,6 @@
 |-|:-:|:-:|-|
 | Havoc | 4.16 (Official) | 11 | https://havoc-os.com/device#mido |
 | Crdroid | 8.4 (Unofficial) | 12L | |
-| Corvus | | 10 |
 
 
 - # 2. Recovery
@@ -49,4 +48,4 @@ Configuration --> Hardware
 
 Neo-Droid Setup: Repositories, Silent Install<br>
 
-# [PROCEED](https://github.com/Hooke012/OmniGuides/blob/main/Software/Android.md)
+# [PROCEED](https://github.com/hookstdev/OmniGuides/blob/main/Software/Android.md)
