@@ -55,6 +55,7 @@ sudo micro /etc/default/grub
 ```
 grubup
 ```
+```
 # Reboot
 
 # Run the bash files in `~/.config/autostart/`
