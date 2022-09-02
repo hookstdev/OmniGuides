@@ -51,6 +51,8 @@ ctrl+fn+end<br>ctrl+v<br>ctrl+s<br>ctrl+q<br>
 ```
 sudo pacman -Sy
 paru linux-g14
+sudo micro /etc/default/grub
+```
 grubup
 ```
 # Reboot
