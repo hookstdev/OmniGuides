@@ -60,4 +60,4 @@ grubup
 
 # Run the bash files in `~/.config/autostart/`
 
-# [Proceed](https://github.com/Hooke012/OmniGuides/blob/main/Software/Linux.md)
+# [Proceed](https://github.com/hookstdev/OmniGuides/blob/omni/Software/Linux.md)
