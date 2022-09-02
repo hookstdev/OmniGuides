@@ -48,4 +48,4 @@ Configuration --> Hardware
 
 Neo-Droid Setup: Repositories, Silent Install<br>
 
-# [PROCEED](https://github.com/hookstdev/OmniGuides/blob/main/Software/Android.md)
+# [PROCEED](https://github.com/hookstdev/OmniGuides/blob/omni/Software/Android.md)
