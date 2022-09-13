@@ -1,7 +1,7 @@
 |App||
 |-|-|
-|RethinkDNS|[F-droid](https://f-droid.org/packages/com.celzero.bravedns/)|
-| Aegis Authenticator | [F-droid](https://f-droid.org/packages/com.beemdevelopment.aegis/)
+|⭐RethinkDNS|[F-droid](https://f-droid.org/packages/com.celzero.bravedns/)|
+|Aegis Authenticator | [F-droid](https://f-droid.org/packages/com.beemdevelopment.aegis/)
 |Amaze File Manager|[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.amaze.filemanager)|
 |Arcticons Dark|[F-droid]()|
 |Aurora Store|[F-droid]()|
@@ -12,18 +12,18 @@
 |ConverterNOW|[F-droid]()|
 |Aria2App|[F-droid](https://f-droid.org/packages/com.gianlu.aria2app/)|
 |Everest|[F-droid]()|
-|FlorisBoard|[F-droid]()|
-|Forkgram|[F-droid]()|
-|Geometric Weather|[F-droid]()|
-|Infinity|[F-droid]()|
-|K-9 Mail|[F-droid]()|
-|Koler|[F-droid]()|
-|Lawnchair|[F-droid]()|
-|Osmand+|[F-droid]()|
+|⭐FlorisBoard|[F-droid]()|
+|⭐Forkgram|[F-droid]()|
+|⭐Geometric Weather|[F-droid](https://f-droid.org/packages/wangdaye.com.geometricweather/)|
+|⭐Infinity|[F-droid]()|
+|⭐K-9 Mail|[F-droid]()|
+|⭐Koler|[F-droid]()|
+|⭐Lawnchair|[F-droid]()|
+|⭐Osmand+|[F-droid]()|
 |Open Note Scanner | [F-droid](https://f-droid.org/packages/com.todobom.opennotescanner/)|
-|Mull|[F-droid]()|
-|MuPDF viewer|[F-droid]()|
-|Newpipe X|[F-droid]()|
+|⭐Mull|[F-droid]()|
+|⭐MuPDF viewer|[F-droid]()|
+|⭐Newpipe X|[F-droid]()|
 |PDF Converter|[F-droid]()|
 |Proton Mail|[F-droid]()|
 |Randomix|[F-droid]()|
@@ -44,7 +44,7 @@
 |Voice Recorder|[F-droid]()|
 |Xtra| [F-droid](https://f-droid.org/packages/com.github.andreyasadchy.xtra/)|
 |Memetastic|[F-droid](https://f-droid.org/packages/io.github.gsantner.memetastic/)|
-|AliuCord|[Releases](https://github.com/Aliucord/Aliucord/releases/latest/download/Installer-release.apk)| 
+|⭐AliuCord|[Releases](https://github.com/Aliucord/Aliucord/releases/latest/download/Installer-release.apk)| 
 |Camera GO|(https://t.me/GcamGo/10195)|
 ```
 AIMP
