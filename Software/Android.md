@@ -16,7 +16,7 @@
 |⭐Forkgram|[F-droid]()|
 |⭐Geometric Weather|[F-droid](https://f-droid.org/packages/wangdaye.com.geometricweather/)|
 |⭐Infinity|[F-droid]()|
-|⭐K-9 Mail|[F-droid]()|
+|⭐K-9 Mail|[F-droid](https://f-droid.org/packages/com.fsck.k9/)|
 |⭐Koler|[F-droid]()|
 |⭐Lawnchair|[F-droid]()|
 |⭐Osmand+|[F-droid]()|
@@ -24,6 +24,7 @@
 |⭐Mull|[F-droid]()|
 |⭐MuPDF viewer|[F-droid]()|
 |⭐Newpipe X|[F-droid]()|
+|Doodle: Live Wallpapers|[F-droid](https://f-droid.org/en/packages/xyz.zedler.patrick.doodle/)|
 |PDF Converter|[F-droid]()|
 |Proton Mail|[F-droid]()|
 |Randomix|[F-droid]()|
@@ -36,6 +37,7 @@
 |Spotube|[F-droid](https://f-droid.org/packages/oss.krtirtho.spotube/)|
 |Syncthing|[F-droid](https://f-droid.org/packages/com.nutomic.syncthingandroid/)|
 |Termux|[F-droid]()|
+|Vector Pinball|[F-droid](https://f-droid.org/packages/com.dozingcatsoftware.bouncy/)|
 |Vector Camera|[F-droid]()|
 |Vimusic|[F-droid]()|
 |VLC|[F-droid](https://f-droid.org/en/packages/org.videolan.vlc/)
@@ -45,7 +47,7 @@
 |Xtra| [F-droid](https://f-droid.org/packages/com.github.andreyasadchy.xtra/)|
 |Memetastic|[F-droid](https://f-droid.org/packages/io.github.gsantner.memetastic/)|
 |⭐AliuCord|[Releases](https://github.com/Aliucord/Aliucord/releases/latest/download/Installer-release.apk)| 
-|Camera GO|(https://t.me/GcamGo/10195)|
+|Camera GO|https://t.me/GcamGo/10195|
 ```
 AIMP
 AIMP: Audio Cutter
