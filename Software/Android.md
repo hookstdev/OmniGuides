@@ -4,9 +4,12 @@ Arcticons Dark
 Aurora Store
 Binary Eye
 Blokada 5
+[Calculator-inator](https://f-droid.org/packages/com.inator.calculator/)
 Coffee
 Collabora Office
+ConverterNOW
 Download Navi
+Everest
 FlorisBoard
 Forkgram
 Geometric Weather
@@ -22,7 +25,6 @@ PDF Converter
 Proton Mail
 Randomix
 Scrambled Exif
-Simple Calculator
 Simple Calendar
 Simple Contacts
 Simple Gallery
@@ -31,6 +33,7 @@ Termux
 Vector Camera
 Vimusic
 Voice Recorder
+Xtra
 ```
 * [AliuCord](https://github.com/Aliucord/Aliucord) : [Releases](https://github.com/Aliucord/Aliucord/releases/latest/download/Installer-release.apk) ⭐
 * [Camera GO](https://t.me/GcamGo/10195)
