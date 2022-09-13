@@ -44,8 +44,8 @@
 |Voice Recorder|[F-droid]()|
 |Xtra| [F-droid](https://f-droid.org/packages/com.github.andreyasadchy.xtra/)|
 |Memetastic|[F-droid](https://f-droid.org/packages/io.github.gsantner.memetastic/)|
-* [AliuCord](https://github.com/Aliucord/Aliucord) : [Releases](https://github.com/Aliucord/Aliucord/releases/latest/download/Installer-release.apk) ⭐
-* [Camera GO](https://t.me/GcamGo/10195)
+|AliuCord|[Releases](https://github.com/Aliucord/Aliucord/releases/latest/download/Installer-release.apk)| 
+|Camera GO|(https://t.me/GcamGo/10195)|
 ```
 AIMP
 AIMP: Audio Cutter
