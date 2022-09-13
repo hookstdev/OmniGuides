@@ -1,6 +1,6 @@
 |App||
 |-|-|
-|RethinkDNS|https://f-droid.org/packages/com.celzero.bravedns/|
+|RethinkDNS|[F-droid](https://f-droid.org/packages/com.celzero.bravedns/)|
 |Amaze File Manager|
 |Arcticons Dark|
 |Aurora Store|
@@ -34,6 +34,7 @@
 |Termux|
 |Vector Camera|
 |Vimusic|
+|Vigilante|[F-droid](https://f-droid.org/en/packages/com.crazylegend.vigilante/)|
 |Voice Recorder|
 |Xtra| [F-droid](https://f-droid.org/packages/com.github.andreyasadchy.xtra/)|
 * [AliuCord](https://github.com/Aliucord/Aliucord) : [Releases](https://github.com/Aliucord/Aliucord/releases/latest/download/Installer-release.apk) ⭐
