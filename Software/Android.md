@@ -64,7 +64,7 @@ AIMP: Audio Cutter
 Bitwarden
 Vivaldi
 Whatsapp
-Google🤮 Clock
+Clock
 Proton Mail
 Proton Calendar
 Proton Drive
