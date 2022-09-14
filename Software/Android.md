@@ -40,7 +40,7 @@ done < installed_apps.txt
 |Open Note Scanner | [F-droid](https://f-droid.org/packages/com.todobom.opennotescanner/)|
 |⭐Mull|[F-droid](https://f-droid.org/en/packages/us.spotco.fennec_dos/)|
 |⭐MuPDF viewer|[F-droid](https://f-droid.org/en/packages/com.artifex.mupdf.viewer.app/)|
-|⭐Newpipe X|[IzzyOnroid](https://apt.izzysoft.de/fdroid/index/apk/org.polymorphicshade.newpipe)|
+|⭐Newpipe X|[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/org.polymorphicshade.newpipe)|
 |Doodle: Live Wallpapers|[F-droid](https://f-droid.org/en/packages/xyz.zedler.patrick.doodle/)|
 |Vernet|[F-droid](https://f-droid.org/packages/org.fsociety.vernet/)|
 |Dicio|[F-droid](https://f-droid.org/packages/org.dicio.dicio_android/)|
