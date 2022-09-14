@@ -1,4 +1,4 @@
-# [Hard Reset after creating Installation media with Ventoy using the WebUI](http://192.168.29.1/platform.cgi?page=backupRestore.html)
+# [Hard Reset after creating Installation media with Ventoy using the WebUI](http://192.168.29.1/platform.cgi)
 # Change password with a phone.
 ```
 Username: admin
