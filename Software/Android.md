@@ -35,7 +35,7 @@ done < installed_apps.txt
 |⭐Infinity|[F-droid](https://f-droid.org/packages/ml.docilealligator.infinityforreddit/)|
 |⭐K-9 Mail|[F-droid](https://f-droid.org/packages/com.fsck.k9/)|
 |⭐Koler|[F-droid](https://f-droid.org/packages/com.chooloo.www.koler/)|
-|⭐Lawnchair|Custom Repo|
+|⭐Lawnchair|[IzzyOnDroid](https://android.izzysoft.de/repo/apk/app.lawnchair)|
 |⭐Osmand+|[F-droid](https://f-droid.org/en/packages/net.osmand.plus/)|
 |Open Note Scanner | [F-droid](https://f-droid.org/packages/com.todobom.opennotescanner/)|
 |⭐Mull|[F-droid](https://f-droid.org/en/packages/us.spotco.fennec_dos/)|
