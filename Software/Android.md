@@ -28,7 +28,7 @@ done < installed_apps.txt
 |ConverterNOW|[F-droid](https://f-droid.org/packages/com.ferrarid.converterpro/)|
 |Aria2App|[F-droid](https://f-droid.org/packages/com.gianlu.aria2app/)|
 |Everest|[F-droid](https://f-droid.org/packages/io.github.mwageringel.everest/)|
-|DetoxDroid|[Release](https://github.com/flxapps/DetoxDroid/releases)|
+|DetoxDroid|[Releases](https://github.com/flxapps/DetoxDroid/releases)|
 |⭐FlorisBoard|[F-droid](https://f-droid.org/en/packages/dev.patrickgold.florisboard/)|
 |⭐Forkgram|[F-droid](https://f-droid.org/en/packages/org.forkgram.messenger/)|
 |⭐Geometric Weather|[F-droid](https://f-droid.org/packages/wangdaye.com.geometricweather/)|
@@ -37,6 +37,7 @@ done < installed_apps.txt
 |⭐Koler|[F-droid](https://f-droid.org/packages/com.chooloo.www.koler/)|
 |⭐Lawnchair|[IzzyOnDroid](https://android.izzysoft.de/repo/apk/app.lawnchair)|
 |⭐Osmand+|[F-droid](https://f-droid.org/en/packages/net.osmand.plus/)|
+|⭐AliuCord|[Releases](https://github.com/Aliucord/Aliucord/releases/latest/download/Installer-release.apk)| 
 |Open Note Scanner | [F-droid](https://f-droid.org/packages/com.todobom.opennotescanner/)|
 |⭐Mull|[F-droid](https://f-droid.org/en/packages/us.spotco.fennec_dos/)|
 |⭐MuPDF viewer|[F-droid](https://f-droid.org/en/packages/com.artifex.mupdf.viewer.app/)|
@@ -69,7 +70,6 @@ done < installed_apps.txt
 |Memetastic|[F-droid](https://f-droid.org/packages/io.github.gsantner.memetastic/)|
 |Spotiflyer|[F-droid](https://f-droid.org/packages/com.shabinder.spotiflyer/)|
 |Birday|[F-droid](https://f-droid.org/packages/com.minar.birday/)|
-|⭐AliuCord|[Releases](https://github.com/Aliucord/Aliucord/releases/latest/download/Installer-release.apk)| 
 |Camera GO|https://t.me/GcamGo/10195|
 ```
 AIMP
