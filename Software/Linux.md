@@ -47,8 +47,10 @@ paru xclicker
 paru webcord
 ```
 
-# 4. Proceed to Set up ALL of the apps
+# 4. Set up ALL of the apps
 
 ```
 cp /usr/lib/firedragon/firedragon.overrides.cfg ~/.firedragon/firedragon.overrides.cfg
 ```
+
+# [Proceed](https://github.com/hookstdev/OmniGuides/blob/omni/OS/Android/nqmido.md)
