@@ -4,13 +4,13 @@
 Get iso from [builds.garudalinux.org](https://builds.garudalinux.org)
 
 - ## Disk Management
-Create the first partition to be 150 gigs (for Garuda) and then 50 gigs for revios and the remanining as raw
+Create the first partition to be 150 gigs (for Garuda) and then install in the remaining (for ReviOS).
 
 # II) Post-Install
 
 # First Steps
 
-1. Minimise the setup assistant, Do these.
+1. Close the setup assistant, Do these.
 
 - ## Battery Threshold
 
@@ -51,8 +51,8 @@ ctrl+fn+end<br>ctrl+v<br>ctrl+s<br>ctrl+q<br>
 ```
 sudo pacman -Sy
 paru linux-g14
-sudo micro /etc/default/grub
 ```
+# Remove the linux-zen kernel&headers using Octopi
 ```
 grubup
 ```
