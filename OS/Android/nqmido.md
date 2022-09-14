@@ -28,4 +28,4 @@ Gestures
 
 Neo-Droid Setup<br>
 
-# [PROCEED](https://github.com/hookstdev/OmniGuides/blob/omni/Software/Android.md)
+# [Proceed](https://github.com/hookstdev/OmniGuides/blob/omni/Software/Android.md)
