@@ -4,4 +4,4 @@
 Username: admin
 Password: Jiocentrum
 ```
-# Proceed with the Installation.
+# [Proceed](https://github.com/hookstdev/OmniGuides/blob/omni/OS/Linux/Garuda-Linux.asus.md)
