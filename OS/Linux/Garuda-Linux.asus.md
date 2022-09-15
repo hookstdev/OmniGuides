@@ -51,10 +51,7 @@ alt-tab<br>ctrl+fn+end<br>ctrl+v<br>ctrl+s<br>ctrl+q<br>
 ```
 sudo pacman -Sy
 paru linux-g14
-```
-# Remove the linux-zen kernel&headers using Octopi
-sudo pacman -R linux-zen 
-```
+sudo pacman -R linux-zen linux-zen-headers
 grubup
 ```
 # Reboot
