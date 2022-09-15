@@ -17,7 +17,7 @@ VirtualBox<br>
 # 2. Portmaster:
 
 ```
-sudo pacman -S --noconfirm libnetfilter_queue libappindicator-gtk3
+sudo pacman -S libnetfilter_queue libappindicator-gtk3
 mkdir -p ~/Git
 cd ~/Git
 git clone https://github.com/safing/portmaster-packaging
