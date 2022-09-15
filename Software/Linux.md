@@ -32,14 +32,7 @@ sudo cp /opt/safing/portmaster/portmaster_notifier.desktop ~/.config/autostart/
 # 3. git gud
 
 ```
-sudo pacman -S bleachbit --noconfirm 
-sudo pacman -S electronmail-bin --noconfirm
-sudo pacman -S flameshot-git --noconfirm 
-sudo pacman -S kotatogram-desktop-bin --noconfirm 
-sudo pacman -S noisetorch-git --noconfirm 
-sudo pacman -S protonvpn-gui --noconfirm 
-sudo pacman -S whatsie-git --noconfirm 
-sudo pacman -S webcord-git --noconfirm 
+sudo pacman -S --noconfirm bleachbit electronmail-bin flameshot-git kotatogram-desktop-bin noisetorch-git protonvpn-gui whatsie-git webcord-git
 paru backintime
 paru pdfarranger
 paru nyrna
