@@ -1,16 +1,3 @@
-https://forum.f-droid.org/t/how-to-backup-f-droid-apps-in-case-i-lose-my-phone/17568/3
-```
-# Write list of apps to file
-adb shell "pm list packages" | sed 's/^package://' > installed_apps.txt
-```
-```
-# Download and install each app in app list to device
-while read -r app; do
-    suggested_version_code="$(curl "https://f-droid.org/api/v1/packages/${app}" | jq -r ".suggestedVersionCode")"
-    curl "https://f-droid.org/repo/${app}_${suggested_version_code}.apk" --output "${app}.apk"
-    adb install "${app}.apk"
-done < installed_apps.txt
-```
 |App||
 |-|-|
 |⭐RethinkDNS|[F-droid](https://f-droid.org/packages/com.celzero.bravedns/)|
