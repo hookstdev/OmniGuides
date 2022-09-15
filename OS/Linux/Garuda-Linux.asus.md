@@ -47,12 +47,13 @@ sudo micro /etc/pacman.conf
 SigLevel = DatabaseNever Optional TrustAll
 Server = https://arch.asus-linux.org
 ```
-ctrl+fn+end<br>ctrl+v<br>ctrl+s<br>ctrl+q<br>
+alt-tab<br>ctrl+fn+end<br>ctrl+v<br>ctrl+s<br>ctrl+q<br>
 ```
 sudo pacman -Sy
 paru linux-g14
 ```
 # Remove the linux-zen kernel&headers using Octopi
+sudo pacman -R linux-zen 
 ```
 grubup
 ```
