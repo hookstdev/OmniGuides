@@ -27,5 +27,7 @@ Gestures
 # 
 
 Neo-Droid Setup<br>
+Defaults (Links)<br>
+Repositories<br>
 
 # [Proceed](https://github.com/hookstdev/OmniGuides/blob/omni/Software/Android.md)
