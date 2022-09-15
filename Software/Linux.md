@@ -32,19 +32,21 @@ sudo cp /opt/safing/portmaster/portmaster_notifier.desktop ~/.config/autostart/
 # 3. paru (git the better)
 
 ```
+sudo pacman -S bleachbit
+sudo pacman -S electronmail-bin
+sudo pacman -S flameshot-git
+sudo pacman -S kotatogram-desktop-bin
+sudo pacman -S noisetorch-git
+sudo pacman -S protonvpn-gui
+sudo pacman -S whatsie-git
+sudo pacman -S webcord-git
+```
+```
 paru backintime
-paru bleachbit
-paru electronmail
-paru flameshot
-paru kotatogram
-paru noisetorch
-paru nyrna
 paru pdfarranger
-paru protonvpn-gui
+paru nyrna
 paru touchpad-indicator
-paru whatsie-git
 paru xclicker
-paru webcord
 ```
 
 # 4. Set up ALL of the apps
