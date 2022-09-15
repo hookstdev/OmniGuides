@@ -29,19 +29,17 @@ sudo cp /opt/safing/portmaster/portmaster_notifier.desktop ~/.config/autostart/
 
 # Reboot
 
-# 3. paru (git the better)
+# 3. git gud
 
 ```
-sudo pacman -S bleachbit
-sudo pacman -S electronmail-bin
-sudo pacman -S flameshot-git
-sudo pacman -S kotatogram-desktop-bin
-sudo pacman -S noisetorch-git
-sudo pacman -S protonvpn-gui
-sudo pacman -S whatsie-git
-sudo pacman -S webcord-git
-```
-```
+sudo pacman -S bleachbit --noconfirm 
+sudo pacman -S electronmail-bin --noconfirm
+sudo pacman -S flameshot-git --noconfirm 
+sudo pacman -S kotatogram-desktop-bin --noconfirm 
+sudo pacman -S noisetorch-git --noconfirm 
+sudo pacman -S protonvpn-gui --noconfirm 
+sudo pacman -S whatsie-git --noconfirm 
+sudo pacman -S webcord-git --noconfirm 
 paru backintime
 paru pdfarranger
 paru nyrna
