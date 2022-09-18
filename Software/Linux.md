@@ -47,7 +47,7 @@ paru xclicker
 sudo pacman -R linux-zen linux-zen-headers
 sudo micro /etc/default/grub
 ```
-GRUB_DEFAULT=0 (edit)
+GRUB_DEFAULT=0 (edit)<br>
 #GRUB_DISABLE_SUBMENU=y (comment)
 ```
 cp /usr/lib/firedragon/firedragon.overrides.cfg ~/.firedragon/firedragon.overrides.cfg
