@@ -44,6 +44,12 @@ paru xclicker
 # 4. Set up ALL of the apps
 
 ```
+sudo pacman -R linux-zen linux-zen-headers
+sudo micro /etc/default/grub
+```
+GRUB_DEFAULT=0 (edit)
+#GRUB_DISABLE_SUBMENU=y (comment)
+```
 cp /usr/lib/firedragon/firedragon.overrides.cfg ~/.firedragon/firedragon.overrides.cfg
 ```
 
