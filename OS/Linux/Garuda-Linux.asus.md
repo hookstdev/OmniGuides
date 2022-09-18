@@ -53,7 +53,7 @@ sudo pacman -Sy
 paru linux-g14
 sudo micro /etc/default/grub
 ```
-GRUB_DEFAULT=2 (edit)
+GRUB_DEFAULT=2 (edit)<br>
 GRUB_DISABLE_SUBMENU=y (uncomment)
 ```
 grubup
