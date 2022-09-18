@@ -51,7 +51,11 @@ alt-tab<br>ctrl+fn+end<br>ctrl+v<br>ctrl+s<br>ctrl+q<br>
 ```
 sudo pacman -Sy
 paru linux-g14
-sudo pacman -R linux-zen linux-zen-headers
+sudo micro /etc/default/grub
+```
+GRUB_DEFAULT=2 (edit)
+GRUB_DISABLE_SUBMENU=y (uncomment)
+```
 grubup
 ```
 # Reboot
