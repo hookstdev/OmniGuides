@@ -58,8 +58,8 @@ GRUB_DISABLE_SUBMENU=y (uncomment)
 ```
 grubup
 ```
-# Reboot
-
 # Run the bash files in `~/.config/autostart/`
+
+# Reboot
 
 # [Proceed](https://github.com/hookstdev/OmniGuides/blob/omni/Software/Linux.md)
