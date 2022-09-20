@@ -3,40 +3,15 @@
 - ## ISO
 Get iso from [builds.garudalinux.org](https://builds.garudalinux.org)
 
-- ## Disk Management
-Create the first partition to be 150 gigs (for Garuda) and then install in the remaining (for ReviOS).
+# II) Install
 
-# II) Post-Install
+- ## Date and Locale (India)
+
+# III) Post-Install
 
 # First Steps
 
 1. Close the setup assistant, Do these.
-
-- ## Battery Threshold
-
-```
-sudo micro /etc/systemd/system/battery-charge-threshold.service 
-```
-
-```
-[Unit]
-Description=Set the battery charge threshold
-After=multi-user.target
-StartLimitBurst=0
-
-[Service]
-Type=oneshot
-Restart=on-failure
-ExecStart=/bin/bash -c 'echo 60 > /sys/class/power_supply/BAT?/charge_control_end_threshold'
-
-[Install]
-WantedBy=multi-user.target
-```
-
-```
-systemctl start battery-charge-threshold.service
-systemctl enable battery-charge-threshold.service
-```
 
 - ## Linux Kernel
 ```
@@ -58,7 +33,7 @@ GRUB_DISABLE_SUBMENU=y (uncomment)
 ```
 grubup
 ```
-# Run the bash files in `~/.config/autostart/`
+# Run the .desktop files in `~/.config/autostart/`
 
 # Reboot
 
