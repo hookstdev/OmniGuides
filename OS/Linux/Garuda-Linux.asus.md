@@ -26,17 +26,9 @@ alt-tab<br>ctrl+fn+end<br>ctrl+v<br>ctrl+s<br>ctrl+q<br>
 ```
 sudo pacman -Sy
 paru linux-g14
-sudo micro /etc/default/grub
-```
-GRUB_DEFAULT=2 (edit)<br>
-GRUB_DISABLE_SUBMENU=y (uncomment)
-```
-grubup
-```
-# Run the .desktop files in `~/.config/autostart/`
-```
-sudo pacman --noconfirm -S dex
-dex <files>
+mv ~/.bashrc_garuda ~/.bashrc
+rm ~/.config/autostart/bashrc-setup.desktop
+rm ~/.config/autostart/initial-user-setup.desktop
 ```
 
 # Reboot
