@@ -34,6 +34,10 @@ GRUB_DISABLE_SUBMENU=y (uncomment)
 grubup
 ```
 # Run the .desktop files in `~/.config/autostart/`
+```
+sudo pacman --noconfirm -S dex
+dex <files>
+```
 
 # Reboot
 
