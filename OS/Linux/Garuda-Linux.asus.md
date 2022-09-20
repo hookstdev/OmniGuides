@@ -1,13 +1,8 @@
-# I) Pre-Install
-
-- ## ISO
-Get iso from [builds.garudalinux.org](https://builds.garudalinux.org)
-
-# II) Install
+# I) Install
 
 - ## Date and Locale (India)
 
-# III) Post-Install
+# II) Post-Install
 
 # First Steps
 
