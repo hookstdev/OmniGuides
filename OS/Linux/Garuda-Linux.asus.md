@@ -70,4 +70,4 @@ cp /usr/lib/firedragon/firedragon.overrides.cfg ~/.firedragon/firedragon.overrid
 sudo pacman -R linux-zen linux-zen-headers
 ```
 
-# [Proceed](https://github.com/hookstdev/OmniGuides/blob/omni/Software/Linux.md)
+# [Enjoy...](https://github.com/hookstdev/OmniGuides/blob/omni/OS/Android/nqmido.md)
