@@ -28,6 +28,7 @@ paru pdfarranger
 paru nyrna
 paru touchpad-indicator
 paru xclicker
+cp /usr/lib/firedragon/firedragon.overrides.cfg ~/.firedragon/firedragon.overrides.cfg
 echo '[redshift]
 temp-day=6500
 temp-night=4000
@@ -61,13 +62,6 @@ makepkg -is
 sudo systemctl daemon-reload
 sudo systemctl enable --now portmaster
 sudo cp /opt/safing/portmaster/portmaster_notifier.desktop ~/.config/autostart/
-```
-
-# Reboot
-
-```
-cp /usr/lib/firedragon/firedragon.overrides.cfg ~/.firedragon/firedragon.overrides.cfg
-sudo pacman -R linux-zen linux-zen-headers
 ```
 
 # [Enjoy...](https://github.com/hookstdev/OmniGuides/blob/omni/OS/Android/nqmido.md)
