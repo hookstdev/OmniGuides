@@ -54,7 +54,7 @@ START_CHARGE_THRESH_BAT0=0
 STOP_CHARGE_THRESH_BAT0=60
 START_CHARGE_THRESH_BAT1=0
 STOP_CHARGE_THRESH_BAT1=60
-RESTORE_THRESHOLDS_ON_BAT=1' >> /etc/tlp.conf
+RESTORE_THRESHOLDS_ON_BAT=1' | sudo tee -a /etc/tlp.conf
 ```
 
 # [Proceed](https://github.com/hookstdev/OmniGuides/blob/omni/OS/Android/nqmido.md)
