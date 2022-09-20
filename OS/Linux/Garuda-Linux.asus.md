@@ -29,6 +29,8 @@ paru nyrna
 paru touchpad-indicator
 paru xclicker
 cp /usr/lib/firedragon/firedragon.overrides.cfg ~/.firedragon/firedragon.overrides.cfg
+echo 'UPDATE_AUR=1
+PACMAN_NOCONFIRM=1' | sudo tee /etc/garuda/garuda-update/config
 echo '[redshift]
 temp-day=6500
 temp-night=4000
