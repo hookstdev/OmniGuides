@@ -1,7 +1,5 @@
 # 1. Setup Assistant:
-System Update: Yes
 
-### Post-Install
 Printer<br>
 Additional KDE Components<br>
 AppImage Launcher<br>
@@ -33,17 +31,12 @@ sudo cp /opt/safing/portmaster/portmaster_notifier.desktop ~/.config/autostart/
 # 3. git gud
 
 ```
-sudo pacman -S --noconfirm bleachbit electronmail-bin flameshot-git kotatogram-desktop-bin noisetorch-git protonvpn-gui whatsie-git webcord-git
+sudo pacman -S --noconfirm tlp bleachbit electronmail-bin flameshot-git kotatogram-desktop-bin noisetorch-git protonvpn-gui whatsie-git webcord-git
 paru backintime
 paru pdfarranger
 paru nyrna
 paru touchpad-indicator
 paru xclicker
-```
-
-# 4. Set up ALL of the apps
-
-```
 sudo pacman -R linux-zen linux-zen-headers
 sudo micro /etc/default/grub
 ```
