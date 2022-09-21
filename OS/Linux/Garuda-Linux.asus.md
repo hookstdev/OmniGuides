@@ -1,3 +1,5 @@
+# O) Install Windows first, set it up and then...
+
 # I) Install
 
 - ## Date and Locale (India)
@@ -23,7 +25,7 @@ VirtualBox<br>
 # 2. Software
 - ## Script
 - ## Reboot
-- ###Remove the Zen kernel
+- ### Remove the Zen kernel
 
 # 3. Set up all of the apps
 
