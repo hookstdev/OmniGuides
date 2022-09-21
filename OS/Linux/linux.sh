@@ -1,6 +1,10 @@
 #!/bin/bash
 
-sudo pacman -S --noconfirm redshift tlp bleachbit electronmail-bin flameshot-git kotatogram-desktop-bin noisetorch-git protonvpn-gui whatsie-git webcord-git libnetfilter_queue libappindicator-gtk3 linux-g14 linux-g14-headers
+echo '
+[g14]
+SigLevel = DatabaseNever Optional TrustAll
+Server = https://arch.asus-linux.org' | sudo tee -a /etc/pacman.conf
+sudo pacman -Sy --noconfirm redshift tlp bleachbit electronmail-bin flameshot-git kotatogram-desktop-bin noisetorch-git protonvpn-gui whatsie-git webcord-git libnetfilter_queue libappindicator-gtk3 linux-g14 linux-g14-headers
 paru backintime
 paru pdfarranger
 paru nyrna
@@ -25,12 +29,6 @@ STOP_CHARGE_THRESH_BAT0=60
 START_CHARGE_THRESH_BAT1=0
 STOP_CHARGE_THRESH_BAT1=60
 RESTORE_THRESHOLDS_ON_BAT=1' | sudo tee -a /etc/tlp.conf
-echo '
-[g14]
-SigLevel = DatabaseNever Optional TrustAll
-Server = https://arch.asus-linux.org' | sudo tee -a /etc/pacman.conf
-sudo pacman -Sy
-paru linux-g14
 mv ~/.bashrc_garuda ~/.bashrc
 rm ~/.config/autostart/bashrc-setup.desktop
 rm ~/.config/autostart/initial-user-setup.desktop
