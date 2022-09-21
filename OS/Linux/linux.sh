@@ -1,3 +1,5 @@
+!# /usr/bin/bash
+
 sudo pacman -S --noconfirm redshift tlp bleachbit electronmail-bin flameshot-git kotatogram-desktop-bin noisetorch-git protonvpn-gui whatsie-git webcord-git libnetfilter_queue libappindicator-gtk3 linux-g14 linux-g14-headers
 paru backintime
 paru pdfarranger
