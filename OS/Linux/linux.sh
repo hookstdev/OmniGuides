@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo pacman -S --noconfirm redshift tlp bleachbit electronmail-bin flameshot-git kotatogram-desktop-bin noisetorch-git protonvpn-gui whatsie-git webcord-git libnetfilter_queue libappindicator-gtk3 linux-g14 linux-g14-headers
+echo 'sudo pacman -S --noconfirm redshift tlp bleachbit electronmail-bin flameshot-git kotatogram-desktop-bin noisetorch-git protonvpn-gui whatsie-git webcord-git libnetfilter_queue libappindicator-gtk3 linux-g14 linux-g14-headers
 paru backintime
 paru pdfarranger
 paru nyrna
@@ -41,4 +41,6 @@ cd portmaster-packaging/linux
 makepkg -is
 sudo systemctl daemon-reload
 sudo systemctl enable --now portmaster
-sudo cp /opt/safing/portmaster/portmaster_notifier.desktop ~/.config/autostart/
+sudo cp /opt/safing/portmaster/portmaster_notifier.desktop ~/.config/autostart/' > tmp.sh
+bash tmp.sh
+rm tmp.sh
