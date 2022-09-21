@@ -39,7 +39,7 @@ STOP_CHARGE_THRESH_BAT0=60
 START_CHARGE_THRESH_BAT1=0
 STOP_CHARGE_THRESH_BAT1=60
 RESTORE_THRESHOLDS_ON_BAT=1
-#USB_AUTOSUSPEND=0' | sudo tee -a /etc/tlp.conf
+#USB_AUTOSUSPEND=0' | sudo tee -a /etc/tlp.d/$USER.conf
 mv ~/.bashrc_garuda ~/.bashrc
 rm ~/.config/autostart/bashrc-setup.desktop
 rm ~/.config/autostart/initial-user-setup.desktop
