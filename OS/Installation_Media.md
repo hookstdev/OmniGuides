@@ -6,7 +6,7 @@
 [Printer](https://www.epson.co.in/Support/Printers/All-In-One/L-Series/Epson-L3210/s/SPT_C11CJ68506)<br>
 [Software](https://raw.githubusercontent.com/hookstdev/OmniGuides/omni/Software/Windows.ps1)<br>
 [Garuda](https://iso.builds.garudalinux.org/iso/latest/garuda/dr460nized/)<br>
-[Script](https://raw.githubusercontent.com/hookstdev/OmniGuides/omni/OS/Linux/linux.sh)
+[Script](https://raw.githubusercontent.com/hookstdev/OmniGuides/omni/OS/Linux/linux.sh)<br>
 [Regedit](https://raw.githubusercontent.com/hookstdev/OmniGuides/omni/OS/disable-uac.reg)
 
 # [Proceed](https://github.com/hookstdev/OmniGuides/blob/omni/OS/Wifi.md)
