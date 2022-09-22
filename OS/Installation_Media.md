@@ -7,6 +7,6 @@
 [Asus](https://www.asus.com/in/Laptops/For-Gaming/TUF-Gaming/ASUS-TUF-Gaming-F15/HelpDesk_Download/)<br>
 [Printer](https://www.epson.co.in/Support/Printers/All-In-One/L-Series/Epson-L3210/s/SPT_C11CJ68506)<br>
 [Software](https://raw.githubusercontent.com/hookstdev/OmniGuides/omni/Software/Windows.txt) !<br>
-[Regedit](https://raw.githubusercontent.com/hookstdev/OmniGuides/omni/OS/disable-uac.reg)
+[Regedit](https://raw.githubusercontent.com/hookstdev/OmniGuides/omni/OS/Windows/disable-uac.reg)
 
 # [Proceed](https://github.com/hookstdev/OmniGuides/blob/omni/OS/Wifi.md)
