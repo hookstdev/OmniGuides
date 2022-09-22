@@ -7,9 +7,9 @@ sudo pacman -Sy --noconfirm pdfarranger nyrna redshift tlp bleachbit electronmai
 paru backintime
 paru touchpad-indicator
 paru xclicker
-mkdir ~/.firedragon/
+sudo mkdir -p ~/.firedragon/
 cp /usr/lib/firedragon/firedragon.overrides.cfg ~/.firedragon/firedragon.overrides.cfg
-sudo mkdir /etc/garuda/garuda-update/
+sudo mkdir -p /etc/garuda/garuda-update/
 echo 'UPDATE_AUR=1' | sudo tee /etc/garuda/garuda-update/config
 echo '[redshift]
 temp-day=6500
