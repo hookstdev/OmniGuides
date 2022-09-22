@@ -1,12 +1,13 @@
-# O) Install Windows first, set it up and then...
-
 # I) Install
 
 - ## Date and Locale (India)
+- ## Erase Disk (witth Hibernate)
 
 # II) Post-Install
 
 # First Steps
+
+# 0. Will ask to connect to Wifi
 
 # 1. Setup Assistant:
 
@@ -23,9 +24,10 @@ IntelliJ<br>
 VirtualBox<br>
 
 # 2. Software
+- ## Nvidia
 - ## Script
 - ## Reboot
-- ### Remove the Zen kernel
+- ## Remove the Zen kernel
 
 # 3. Set up all of the apps
 
