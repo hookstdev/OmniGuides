@@ -49,8 +49,8 @@ RESTORE_THRESHOLDS_ON_BAT=1
 
 
 
-systemctl enable tlp.service
-systemctl mask systemd-rfkill.service systemd-rfkill.socket
+sudo systemctl enable tlp.service
+sudo systemctl mask systemd-rfkill.service systemd-rfkill.socket
 sudo tlp start
 mv ~/.bashrc_garuda ~/.bashrc
 rm ~/.config/autostart/bashrc-setup.desktop
