@@ -15,3 +15,5 @@
 - Printer+Scanner (Make sure that the printer is connected)
 - ArmouryCrate
 - Windows.ps1
+
+[PROCEED](https://github.com/hookstdev/OmniGuides/blob/omni/OS/Linux/Garuda-Linux.asus.md)
