@@ -2,6 +2,6 @@
 # Change password with a phone.
 ```
 Username: admin
-Password: Hookst012@Wifi
+Password: if you know, you know
 ```
 # [Proceed](https://github.com/hookstdev/OmniGuides/blob/omni/OS/Linux/Garuda-Linux.asus.md)
