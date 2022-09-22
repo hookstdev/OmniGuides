@@ -4,15 +4,14 @@ echo '
 [g14]
 SigLevel = DatabaseNever Optional TrustAll
 Server = https://arch.asus-linux.org' | sudo tee -a /etc/pacman.conf
-sudo pacman -Sy --noconfirm redshift tlp bleachbit electronmail-bin flameshot-git kotatogram-desktop-bin noisetorch-git protonvpn-gui whatsie-git webcord-git libnetfilter_queue libappindicator-gtk3 linux-g14 linux-g14-headers
+sudo pacman -R --noconfirm power-profiles-daemon
+sudo pacman -Sy --noconfirm nyrna redshift tlp bleachbit electronmail-bin flameshot-git kotatogram-desktop-bin noisetorch-git protonvpn-gui whatsie-git webcord-git libnetfilter_queue libappindicator-gtk3 linux-g14 linux-g14-headers
 paru backintime
 paru pdfarranger
-paru nyrna
 paru touchpad-indicator
 paru xclicker
 cp /usr/lib/firedragon/firedragon.overrides.cfg ~/.firedragon/firedragon.overrides.cfg
-echo 'UPDATE_AUR=1
-PACMAN_NOCONFIRM=1' | sudo tee /etc/garuda/garuda-update/config
+echo 'UPDATE_AUR=1' | sudo tee /etc/garuda/garuda-update/config
 echo '[redshift]
 temp-day=6500
 temp-night=4000
@@ -40,6 +39,8 @@ START_CHARGE_THRESH_BAT1=0
 STOP_CHARGE_THRESH_BAT1=60
 RESTORE_THRESHOLDS_ON_BAT=1
 #USB_AUTOSUSPEND=0' | sudo tee -a /etc/tlp.d/$USER.conf
+systemctl enable tlp.service
+systemctl mask systemd-rfkill.service systemd-rfkill.socket
 sudo tlp start
 mv ~/.bashrc_garuda ~/.bashrc
 rm ~/.config/autostart/bashrc-setup.desktop
@@ -52,3 +53,9 @@ makepkg -is
 sudo systemctl daemon-reload
 sudo systemctl enable --now portmaster
 sudo cp /opt/safing/portmaster/portmaster_notifier.desktop ~/.config/autostart/'
+
+echo '1
+1
+y
+q
+' | paru backintime
