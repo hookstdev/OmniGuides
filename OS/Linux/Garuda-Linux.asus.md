@@ -20,6 +20,7 @@ Vivaldi<br>
 ThunderBird<br>
 VLC<br>
 OBS Studio<br>
+GIMP<br>
 IntelliJ<br>
 VirtualBox<br>
 
