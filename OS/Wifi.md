@@ -4,4 +4,4 @@
 Username: admin
 Password: if you know, you know
 ```
-# [Proceed](https://github.com/hookstdev/OmniGuides/blob/omni/OS/Linux/Garuda-Linux.asus.md)
+# [Proceed](https://github.com/hookstdev/OmniGuides/blob/omni/OS/Windows.md)
