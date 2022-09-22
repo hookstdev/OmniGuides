@@ -1,3 +1,4 @@
+```
 sudo pacman -R --noconfirm power-profiles-daemon
 echo '
 [g14]
@@ -7,6 +8,7 @@ sudo pacman -Sy --noconfirm pdfarranger nyrna redshift tlp bleachbit electronmai
 paru backintime
 paru touchpad-indicator
 paru xclicker
+paru persepolis
 sudo mkdir -p ~/.firedragon/
 cp /usr/lib/firedragon/firedragon.overrides.cfg ~/.firedragon/firedragon.overrides.cfg
 sudo mkdir -p /etc/garuda/garuda-update/
@@ -17,12 +19,13 @@ temp-night=4000
 fade=1
 dawn-time=6:00-7:00
 dusk-time=17:30-18:00' > ~/.config/redshift.conf
+```
 
 
 
 
 
-
+```
 echo 'TLP_DEFAULT_MODE=BAT
 CPU_SCALING_GOVERNOR_ON_AC=powersave
 CPU_SCALING_GOVERNOR_ON_BAT=powersave
@@ -44,11 +47,11 @@ START_CHARGE_THRESH_BAT1=0
 STOP_CHARGE_THRESH_BAT1=60
 RESTORE_THRESHOLDS_ON_BAT=1
 #USB_AUTOSUSPEND=0' | sudo tee -a /etc/tlp.d/$USER.conf
+```
 
 
 
-
-
+```
 sudo systemctl enable tlp.service
 sudo systemctl mask systemd-rfkill.service systemd-rfkill.socket
 sudo tlp start
@@ -63,3 +66,4 @@ makepkg -is
 sudo systemctl daemon-reload
 sudo systemctl enable --now portmaster
 sudo cp /opt/safing/portmaster/portmaster_notifier.desktop ~/.config/autostart/'
+```
