@@ -2,6 +2,6 @@
 # Change password with a phone.
 ```
 Username: admin
-Password: if you know, you know
+Password: Jiocentrum
 ```
 # [Proceed](https://github.com/hookstdev/OmniGuides/blob/omni/OS/Windows.md)
