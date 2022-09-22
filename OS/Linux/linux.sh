@@ -1,13 +1,10 @@
-#!/bin/bash
-
+sudo pacman -R --noconfirm power-profiles-daemon
 echo '
 [g14]
 SigLevel = DatabaseNever Optional TrustAll
 Server = https://arch.asus-linux.org' | sudo tee -a /etc/pacman.conf
-sudo pacman -R --noconfirm power-profiles-daemon
-sudo pacman -Sy --noconfirm nyrna redshift tlp bleachbit electronmail-bin flameshot-git kotatogram-desktop-bin noisetorch-git protonvpn-gui whatsie-git webcord-git libnetfilter_queue libappindicator-gtk3 linux-g14 linux-g14-headers
+sudo pacman -Sy --noconfirm pdfarranger nyrna redshift tlp bleachbit electronmail-bin flameshot-git kotatogram-desktop-bin noisetorch-git protonvpn-gui whatsie-git webcord-git libnetfilter_queue libappindicator-gtk3 linux-g14 linux-g14-headers
 paru backintime
-paru pdfarranger
 paru touchpad-indicator
 paru xclicker
 cp /usr/lib/firedragon/firedragon.overrides.cfg ~/.firedragon/firedragon.overrides.cfg
@@ -18,6 +15,12 @@ temp-night=4000
 fade=1
 dawn-time=6:00-7:00
 dusk-time=17:30-18:00' > ~/.config/redshift.conf
+
+
+
+
+
+
 echo 'TLP_DEFAULT_MODE=BAT
 CPU_SCALING_GOVERNOR_ON_AC=powersave
 CPU_SCALING_GOVERNOR_ON_BAT=powersave
@@ -39,6 +42,10 @@ START_CHARGE_THRESH_BAT1=0
 STOP_CHARGE_THRESH_BAT1=60
 RESTORE_THRESHOLDS_ON_BAT=1
 #USB_AUTOSUSPEND=0' | sudo tee -a /etc/tlp.d/$USER.conf
+
+
+
+
 systemctl enable tlp.service
 systemctl mask systemd-rfkill.service systemd-rfkill.socket
 sudo tlp start
@@ -53,9 +60,3 @@ makepkg -is
 sudo systemctl daemon-reload
 sudo systemctl enable --now portmaster
 sudo cp /opt/safing/portmaster/portmaster_notifier.desktop ~/.config/autostart/'
-
-echo '1
-1
-y
-q
-' | paru backintime
