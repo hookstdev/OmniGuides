@@ -1,5 +1,5 @@
 [Script](https://raw.githubusercontent.com/hookstdev/OmniGuides/omni/Software/Linux.txt)<br>
-[Garuda](https://iso.builds.garudalinux.org/iso/latest/garuda/dr460nized/)<br><br>
+[Garuda](https://iso.builds.garudalinux.org/iso/garuda/dr460nized/220909/)<br><br>
 [ReviOS](https://www.revi.cc/revios/download) !<br>
 [NVCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)<br>
 [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)<br>
