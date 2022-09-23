@@ -17,8 +17,6 @@ dusk-time=17:30-18:00' > ~/.config/redshift.conf
 
 
 
-
-
 echo 'TLP_DEFAULT_MODE=BAT
 CPU_SCALING_GOVERNOR_ON_AC=powersave
 CPU_SCALING_GOVERNOR_ON_BAT=powersave
@@ -43,8 +41,6 @@ RESTORE_THRESHOLDS_ON_BAT=1
 
 
 
-
-
 sudo systemctl enable tlp.service
 sudo systemctl mask systemd-rfkill.service systemd-rfkill.socket
 sudo tlp start
@@ -62,9 +58,10 @@ sudo cp /opt/safing/portmaster/portmaster_notifier.desktop ~/.config/autostart/'
 
 
 
-
-
 paru backintime
+
 paru touchpad-indicator
+
 paru xclicker
+
 paru persepolis
