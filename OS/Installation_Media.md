@@ -7,7 +7,7 @@ AtlasOS (Discord)<br>
 [Printer](https://www.epson.co.in/Support/Printers/All-In-One/L-Series/Epson-L3210/s/SPT_C11CJ68506) Inf<br> 
 [Software](https://raw.githubusercontent.com/hookstdev/OmniGuides/omni/Software/Windows.txt) 2<br>
 [Webcord](https://github.com/SpacingBat3/WebCord/releases) 2 <br>
-[Brightness Slder](https://github.com/blackholeearth/Win10_BrightnessSlider/releases) 2<br>
+[Brightness Slder](https://download.cnet.com/PangoBright/3000-2072_4-75327791.html) 2<br>
 [XDM](https://github.com/subhra74/xdm-experimental-binaries/releases) 2
 
 # [Proceed](https://github.com/hookstdev/OmniGuides/blob/omni/OS/Wifi.md)
