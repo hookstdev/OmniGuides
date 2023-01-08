@@ -5,7 +5,7 @@ AtlasOS (Discord)<br>
 [Vcredist](https://github.com/abbodi1406/vcredist/releases) 1<br> 
 [Asus](https://www.asus.com/in/Laptops/For-Gaming/TUF-Gaming/ASUS-TUF-Gaming-F15/HelpDesk_Download/) 1<br> 
 [Printer](https://www.epson.co.in/Support/Printers/All-In-One/L-Series/Epson-L3210/s/SPT_C11CJ68506) Inf<br> 
-[Software](https://raw.githubusercontent.com/hookstdev/OmniGuides/omni/Software/Windows.txt)2<br>
+[Software](https://raw.githubusercontent.com/hookstdev/OmniGuides/omni/Software/Windows.txt) 2<br>
 [Webcord](https://github.com/SpacingBat3/WebCord/releases) 2 <br>
 [Brightness Slder](https://github.com/blackholeearth/Win10_BrightnessSlider/releases) 2
 
