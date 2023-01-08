@@ -5,11 +5,11 @@
 # Connect Internet
 # Software
 - Timesync
-- Display Scaling (too 100%)
+- Display Scaling (to 100%)
 - Dxwebsetup (No bing bar)
-- Nvcleanstall
+- Nvcleanstall (With Advanced)
 - Printer+Scanner (Make sure that the printer is connected)
-- Windows.ps1
+- Chocolatey
 - Webcord + Win10-Brightness + XDM
 - Optional Features
 - Startup Items
