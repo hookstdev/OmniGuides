@@ -8,7 +8,6 @@
 - Display Scaling (to 100%)
 - Dxwebsetup (No bing bar)
 - Nvcleanstall (With Advanced)
-- Printer+Scanner (Make sure that the printer is connected)
 - Chocolatey
 - Webcord + Win10-Brightness + XDM
 - Optional Features
