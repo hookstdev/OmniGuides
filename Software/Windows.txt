@@ -6,4 +6,4 @@ choco feature enable -n allowGlobalConfirmation
 choco upgrade chocolatey --force
 refreshenv
 choco install 7zip --pre 
-choco install brave portmaster files imageglass aimp vlc office-tool obs-studio qbittorrent-enhanced everything playnite f.lux
+choco install vivaldi everything playnite f.lux
