@@ -8,5 +8,6 @@ AtlasOS (Discord)<br>
 [Software](https://raw.githubusercontent.com/hookstdev/OmniGuides/omni/Software/Windows.txt) 2<br>
 [Webcord](https://github.com/SpacingBat3/WebCord/releases) 2 <br>
 [Brightness Slder](https://github.com/blackholeearth/Win10_BrightnessSlider/releases) 2
+[XDM](https://github.com/subhra74/xdm-experimental-binaries/releases) 2
 
 # [Proceed](https://github.com/hookstdev/OmniGuides/blob/omni/OS/Wifi.md)
