@@ -1,19 +1,19 @@
-# Let the ReviOS setup-er finish
+# Let the AltasOS setup finish... Reboot
 
-# Merge the registry files and then enable notifications using the Revision-Tool
+# Install the Drivers...  Reboot
 
-# Install (n) drivers
-
+# Connect Internet
 # Software
-- Network
 - Timesync
-- Brightness
 - Display Scalin
 - Dxwebsetup (No bing bar)
-- VisualCpp
-- Nvcleanstall (With GeforceExperience)
+- Nvcleanstall
 - Printer+Scanner (Make sure that the printer is connected)
-- ArmouryCrate
 - Windows.ps1
+- Webcord + Win10-Brightness
+- Optional Features
+- Startup Items
+- Enable Notifications, Clipboard History
+- 
 
 # [PROCEED](https://github.com/hookstdev/OmniGuides/blob/omni/OS/Linux/Garuda-Linux.asus.md)
