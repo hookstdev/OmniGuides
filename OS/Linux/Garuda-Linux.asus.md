@@ -1,7 +1,7 @@
 # I) Install
 
 - ## Date and Locale (India)
-- ## Erase Disk (witth Hibernate)
+- ## Erase Disk (without Hibernate)
 
 # II) Post-Install
 
@@ -18,17 +18,13 @@ Octopi<br>
 LibreOffice Fresh<br>
 Vivaldi<br>
 ThunderBird<br>
-VLC<br>
-OBS Studio<br>
-GIMP<br>
-IntelliJ<br>
-VirtualBox<br>
+Telegram Desktop<br>
+Discord<br>
+mpv<br>
 
 # 2. Software
-- ## Nvidia
 - ## Script
 - ## Reboot
-- ## Remove the Zen kernel
 
 # 3. Set up all of the apps
 
