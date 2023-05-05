@@ -20,7 +20,6 @@ Vivaldi<br>
 ThunderBird<br>
 Telegram Desktop<br>
 Discord<br>
-mpv<br>
 
 # 2. Software
 - ## Script
