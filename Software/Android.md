@@ -7,7 +7,7 @@
 |⭐Koler|[F-droid](https://f-droid.org/packages/com.chooloo.www.koler/)|
 |⭐Lawnchair|[IzzyOnDroid](https://android.izzysoft.de/repo/apk/app.lawnchair)|
 |⭐Osmand+|[F-droid](https://f-droid.org/en/packages/net.osmand.plus/)|
-|⭐AliuCord|[Releases](https://github.com/Aliucord/Aliucord/releases/latest/download/Installer-release.apk)| 
+|⭐AliuCord|[Github](https://github.com/Aliucord/Aliucord/releases/)| 
 |⭐Mull|[F-droid](https://f-droid.org/en/packages/us.spotco.fennec_dos/)|
 |Amaze File Manager|[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.amaze.filemanager)|
 |⭐Arcticons Dark|[F-droid](https://f-droid.org/packages/com.donnnno.arcticons/)|
@@ -22,17 +22,22 @@
 |Sharik|[F-droid](https://f-droid.org/en/packages/dev.marchello.sharik/)|
 |Voice Recorder|[F-droid](https://f-droid.org/en/packages/com.simplemobiletools.voicerecorder/)|
 |Spotiflyer|[F-droid](https://f-droid.org/packages/com.shabinder.spotiflyer/)|
+|XManager|[Github](https://github.com/xManager-App/xManager/releases/)|
+
+# [Youtube Revanced](https://www.reddit.com/r/revancedapp/comments/xlcny9/revanced_manager_guide_for_dummies/)
+
+|App||
+|-|-|
+|MicroG|[Apkmirror](https://www.apkmirror.com/apk/team-vanced/microg-youtube-vanced/microg-youtube-vanced-0-2-24-220220-release/vanced-microg-0-2-24-220220-android-apk-download/)|
+|Revanced-Manager|[Github](https://github.com/revanced/revanced-manager/releases/)|
+|Youtube|[Apkmirror](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-16-37-release/youtube-18-16-37-2-android-apk-download/)|
+
 
 ```
-AIMP
-AIMP: Audio Cutter
+Amaze Utilities
 Bitwarden
 Vivaldi
 Whatsapp
 Clock
-Activity Watch
 Proton Mail
-Proton Calendar
-Proton Drive
-Proton VPN
 ```
