@@ -1,10 +1,10 @@
+mkdir -p ~/.firedragon/
 sudo pacman -R --noconfirm power-profiles-daemon
 echo '
 [g14]
 SigLevel = DatabaseNever Optional TrustAll
 Server = https://arch.asus-linux.org' | sudo tee -a /etc/pacman.conf
-sudo pacman -Sy --noconfirm pdfarranger nyrna redshift tlp bleachbit electronmail-bin flameshot-git kotatogram-desktop-bin noisetorch-git protonvpn-gui whatsie-git webcord-git libnetfilter_queue libappindicator-gtk3 linux-g14 linux-g14-headers
-mkdir -p ~/.firedragon/
+sudo pacman -Sy --noconfirm pdfarranger redshift tlp bleachbit electronmail-bin noisetorch-git whatsie-git libnetfilter_queue libappindicator-gtk3
 cp /usr/lib/firedragon/firedragon.overrides.cfg ~/.firedragon/firedragon.overrides.cfg
 sudo mkdir -p /etc/garuda/garuda-update/
 echo 'UPDATE_AUR=1' | sudo tee /etc/garuda/garuda-update/config
@@ -40,20 +40,5 @@ RESTORE_THRESHOLDS_ON_BAT=1
 sudo systemctl enable tlp.service
 sudo systemctl mask systemd-rfkill.service systemd-rfkill.socket
 sudo tlp start
-mv ~/.bashrc_garuda ~/.bashrc
-rm ~/.config/autostart/bashrc-setup.desktop
-rm ~/.config/autostart/initial-user-setup.desktop
-mkdir -p ~/Git
-cd ~/Git
-git clone https://github.com/safing/portmaster-packaging
-cd portmaster-packaging/linux
-makepkg -is
-sudo systemctl daemon-reload
-sudo systemctl enable --now portmaster
-sudo cp /opt/safing/portmaster/portmaster_notifier.desktop ~/.config/autostart/'
 
-paru backintime
-
-paru touchpad-indicator
-
-paru xclicker
+paru portmaster-stub-bin
