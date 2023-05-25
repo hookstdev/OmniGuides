@@ -1,22 +1,8 @@
 # FireDragon:
 ## uBlock Origin
 [Chromium](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
-```
-Settings pane:
 
-I am an advanced user: checked.
-
-3rd-party filters pane:
-All of uBO's filter lists: checked
-EasyList: checked
-Peter Lowe’s Ad server list: checked
-EasyPrivacy: checked
-Online Malicious URL Blocklist‎: checked
-
-My rules pane:
-Add: * * 3p-script block
-Add: * * 3p-frame block
-```
+![s](https://download.monin.net/f.php?h=3WKG8DKi&p=1)
 
 ## Other Addons
 
