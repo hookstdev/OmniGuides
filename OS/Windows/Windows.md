@@ -20,4 +20,4 @@
 ### NVIDIA
 ### Software
 
-# [PROCEED](https://github.com/hookstdev/OmniGuides/blob/omni/OS/Linux/Garuda-Linux.asus.md)
+# [PROCEED](https://github.com/hookstdev/OmniGuides/blob/omni/OS/Android/nqmido.md)
