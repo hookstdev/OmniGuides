@@ -6,5 +6,6 @@
 [VCRedist](https://github.com/abbodi1406/vcredist/releases)<br>
 [NvCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)<br>
 [Asus](https://www.asus.com/in/Laptops/For-Gaming/TUF-Gaming/ASUS-TUF-Gaming-F15/HelpDesk_Download/)<br> 
+[Ventoy](https://github.com/ventoy/Ventoy/releases/)
 
 # [Proceed](https://github.com/hookstdev/OmniGuides/blob/omni/OS/Wifi.md)
