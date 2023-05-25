@@ -27,4 +27,4 @@ Discord<br>
 
 # 3. Set up all of the apps
 
-# [Enjoy...](https://github.com/hookstdev/OmniGuides/blob/omni/OS/Android/nqmido.md)
+# [Enjoy...](https://github.com/hookstdev/OmniGuides/blob/omni/OS/Windows/Windows.md)
