@@ -1,13 +1,11 @@
 mkdir -p ~/.firedragon/
 sudo pacman -R --noconfirm power-profiles-daemon
-echo '
-[g14]
-SigLevel = DatabaseNever Optional TrustAll
-Server = https://arch.asus-linux.org' | sudo tee -a /etc/pacman.conf
-sudo pacman -Sy --noconfirm pdfarranger redshift tlp bleachbit electronmail-bin noisetorch-git whatsie-git libnetfilter_queue libappindicator-gtk3
+sudo pacman -Sy --noconfirm pdfarranger redshift tlp bleachbit whatsie-git libnetfilter_queue libappindicator-gtk3
 cp /usr/lib/firedragon/firedragon.overrides.cfg ~/.firedragon/firedragon.overrides.cfg
 sudo mkdir -p /etc/garuda/garuda-update/
-echo 'UPDATE_AUR=1' | sudo tee /etc/garuda/garuda-update/config
+echo 'UPDATE_AUR=1
+PACMAN_NOCONFIRM=1
+SKIP_MIRRORLIST=1' | sudo tee /etc/garuda/garuda-update/config
 echo '[redshift]
 temp-day=6500
 temp-night=4000
