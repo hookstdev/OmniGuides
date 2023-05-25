@@ -1,5 +1,5 @@
 [Script](https://raw.githubusercontent.com/hookstdev/OmniGuides/omni/Software/Linux.txt)<br>
-[Garuda](https://garudalinux.org/downloads.html) Wait for June Version<br><br>
+[Garuda](https://garudalinux.org/downloads.html) Wait for July Version<br><br>
 [AtlasOS 10](https://docs.atlasos.net/getting-started/installation/)<br><br>
 [ReviOS 11](https://revi.cc/revios/download)<br>
 [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)<br>
