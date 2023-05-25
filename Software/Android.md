@@ -29,7 +29,7 @@
 |-|-|
 |MicroG|[Apkmirror](https://www.apkmirror.com/apk/team-vanced/microg-youtube-vanced/microg-youtube-vanced-0-2-24-220220-release/vanced-microg-0-2-24-220220-android-apk-download/)|
 |Revanced-Manager|[Github](https://github.com/revanced/revanced-manager/releases/)|
-|Youtube|[Apkmirror](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-16-37-release/youtube-18-16-37-2-android-apk-download/)|
+|Youtube|[Apkmirror](https://www.apkmirror.com/apk/google-inc/youtube/youtube-18-19-35-release/youtube-18-19-35-android-apk-download/)|
 
 
 ```
