@@ -31,10 +31,6 @@ Detect Dark Theme
 ```
 | S.No. | Extension | Firefox | Chromium |
 |-|-|-|-|
-| 2. |Tabliss| https://addons.mozilla.org/en-US/firefox/addon/tabliss/ | |
 | 3. | Bitwarden | https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/ | https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb |
 | 4. |SimpleLogin| https://addons.mozilla.org/en-US/firefox/addon/simplelogin/ | |
 | 5. | LibRedirect | https://addons.mozilla.org/en-US/firefox/addon/libredirect/ | |
-| 6. | Persepolis | https://addons.mozilla.org/en-US/firefox/addon/persepolis-dlm-integration/ | |
-| 7. | UI.Vision | | https://chrome.google.com/webstore/detail/uivision-rpa/gcbalfbdmfieckjlnblleoemohcganoc |
-| 8. | ViolentMonkey | | https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag |
