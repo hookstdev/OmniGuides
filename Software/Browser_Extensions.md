@@ -17,6 +17,5 @@ Detect Dark Theme
 ```
 | S.No. | Extension | Firefox | Chromium |
 |-|-|-|-|
-| 3. | Bitwarden | https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/ | https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb |
-| 4. |SimpleLogin| https://addons.mozilla.org/en-US/firefox/addon/simplelogin/ | |
-| 5. | LibRedirect | https://addons.mozilla.org/en-US/firefox/addon/libredirect/ | |
+| 2. | Bitwarden | https://addons.mozilla.org/en-US/firefox/addon/bitwarden-password-manager/ | https://chrome.google.com/webstore/detail/bitwarden-free-password-m/nngceckbapebfimnlniiiahkandclblb |
+| 3. |SimpleLogin| https://addons.mozilla.org/en-US/firefox/addon/simplelogin/ | |
