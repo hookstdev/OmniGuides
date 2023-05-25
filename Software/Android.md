@@ -6,7 +6,7 @@
 |Koler|[F-droid](https://f-droid.org/packages/com.chooloo.www.koler/)|
 |Lawnchair|[IzzyOnDroid](https://android.izzysoft.de/repo/apk/app.lawnchair)|
 |Osmand+|[F-droid](https://f-droid.org/en/packages/net.osmand.plus/)|
-|AliuCord|[Github](https://github.com/Aliucord/Aliucord/releases/)| 
+|Vendetta|[Github](https://github.com/vendetta-mod/VendettaManager/releases)| 
 |Mull|[F-droid](https://f-droid.org/en/packages/us.spotco.fennec_dos/)|
 |Amaze File Manager|[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.amaze.filemanager)|
 |Arcticons Dark|[F-droid](https://f-droid.org/packages/com.donnnno.arcticons/)|
