@@ -4,4 +4,4 @@
 Username: admin
 Password: Jiocentrum
 ```
-# [Proceed](https://github.com/hookstdev/OmniGuides/blob/omni/OS/Windows/Windows.md)
+# [Proceed](https://github.com/hookstdev/OmniGuides/blob/omni/OS/Linux/Garuda-Linux.asus.md)
