@@ -1,4 +1,4 @@
-# [Revision]
+# Revision
 
 ### Use the Second 69 GB Partition
 ### Install + Wait For ReviOS Setup to Finish
@@ -8,7 +8,7 @@
 ### VCRedist + DirectX
 ### Chocolatey
 
-# [Atlas]
+# Atlas
 
 ### Use the Third 69 GB Partition
 ### Install
