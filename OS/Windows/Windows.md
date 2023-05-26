@@ -1,4 +1,4 @@
-# Revision
+# Revision 11 23.06
 
 ### Use the Second 69 GB Partition
 ### Install + Wait For ReviOS Setup to Finish
@@ -7,7 +7,7 @@
 ### Wifi + VCRedist + DirectX
 ### NVCleanstall + Chocolatey
 
-# Atlas
+# Atlas v0.4
 
 ### Use the Third 69 GB Partition
 ### Install
