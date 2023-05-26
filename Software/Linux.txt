@@ -1,11 +1,8 @@
-mkdir -p ~/.firedragon/
 sudo pacman -R --noconfirm power-profiles-daemon
-sudo pacman -Sy --noconfirm pdfarranger redshift tlp bleachbit whatsie-git libnetfilter_queue libappindicator-gtk3
-cp /usr/lib/firedragon/firedragon.overrides.cfg ~/.firedragon/firedragon.overrides.cfg
+sudo pacman -Sy --noconfirm pdfarranger redshift tlp bleachbit whatsie-git
 sudo mkdir -p /etc/garuda/garuda-update/
 echo 'UPDATE_AUR=1
-PACMAN_NOCONFIRM=1
-SKIP_MIRRORLIST=1' | sudo tee /etc/garuda/garuda-update/config
+PACMAN_NOCONFIRM=1' | sudo tee /etc/garuda/garuda-update/config
 echo '[redshift]
 temp-day=6500
 temp-night=4000
