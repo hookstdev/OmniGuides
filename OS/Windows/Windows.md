@@ -1,6 +1,6 @@
 # Revision 11 23.06
 
-### Use the Second 69 GB Partition
+### Use a 69 GB Partition
 ### Install + Wait For ReviOS Setup to Finish
 ### ReviOS Setup (Notifications, UAC ...)
 ### Drivers
@@ -9,7 +9,7 @@
 
 # Atlas 10 v0.3
 
-### Use the Third 69 GB Partition
+### Use a 40 GB Partition
 ### Install
 ### Copy "Atlas" and Disable WinDriveUp
 ### Ethernet + TimeSync + WinUp
