@@ -11,8 +11,6 @@
 
 # 1. Setup Assistant:
 
-Printer<br>
-Additional KDE Components<br>
 AppImage Launcher<br>
 LibreOffice Fresh<br>
 Vivaldi<br>
