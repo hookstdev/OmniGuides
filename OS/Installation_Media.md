@@ -5,7 +5,7 @@
 [Ventoy](https://github.com/ventoy/Ventoy/releases/)<br>
 
 [AtlasOS 10](https://docs.atlasos.net/getting-started/installation/)<br>
-[NvCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)<br><br>
+[NvCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)<br>
 
 [ReviOS 11](https://revi.cc/revios/download)<br>
 [DirectX](https://www.microsoft.com/en-us/download/details.aspx?id=35)<br>
