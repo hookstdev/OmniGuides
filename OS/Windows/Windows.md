@@ -7,7 +7,7 @@
 ### Wifi + VCRedist + DirectX
 ### NVCleanstall + Chocolatey
 
-# Atlas v0.4
+# Atlas 10 v0.4
 
 ### Use the Third 69 GB Partition
 ### Install
