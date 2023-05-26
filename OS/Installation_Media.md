@@ -1,7 +1,7 @@
 [Script](https://raw.githubusercontent.com/hookstdev/OmniGuides/omni/Software/Linux.txt)<br>
 [Garuda 230701](https://garudalinux.org/downloads.html) <br><br>
 
-[Asus](https://www.asus.com/in/Laptops/For-Gaming/TUF-Gaming/ASUS-TUF-Gaming-F15/HelpDesk_Download/)<br> 
+[Asus](https://www.asus.com/in/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-f15/helpdesk_download/?model2Name=FX506LI)<br> 
 [Ventoy](https://github.com/ventoy/Ventoy/releases/)<br>
 
 [AtlasOS 10](https://docs.atlasos.net/getting-started/installation/)<br>
