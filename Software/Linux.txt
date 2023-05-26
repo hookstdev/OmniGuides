@@ -1,5 +1,6 @@
 sudo pacman -R --noconfirm power-profiles-daemon
-sudo pacman -Sy --noconfirm pdfarranger redshift tlp bleachbit whatsie-git spotify
+sudo pacman -Sy --noconfirm pdfarranger redshift tlp bleachbit whatsie-git spotify betterdiscordctl-git
+
 sudo mkdir -p /etc/garuda/garuda-update/
 echo 'UPDATE_AUR=1
 PACMAN_NOCONFIRM=1' | sudo tee /etc/garuda/garuda-update/config
