@@ -1,5 +1,5 @@
 sudo pacman -R --noconfirm power-profiles-daemon
-sudo pacman -Sy --noconfirm pdfarranger redshift tlp bleachbit whatsie-git
+sudo pacman -Sy --noconfirm pdfarranger redshift tlp bleachbit whatsie-git spotify
 sudo mkdir -p /etc/garuda/garuda-update/
 echo 'UPDATE_AUR=1
 PACMAN_NOCONFIRM=1' | sudo tee /etc/garuda/garuda-update/config
@@ -33,4 +33,4 @@ RESTORE_THRESHOLDS_ON_BAT=1
 sudo systemctl enable tlp.service
 sudo tlp start
 
-paru portmaster-stub-bin
+paru portmaster
