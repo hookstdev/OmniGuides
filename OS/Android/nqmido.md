@@ -11,19 +11,16 @@ https://github.com/NeoApplications/Neo-Store/releases
 
 Turn Off Mobile Data<br>
 Install NeoDroid<br>
-DEBLOAT 21<br>
+DEBLOAT<br>
 Reboot<br>
 Wifi<br>
 
 ## Settings
 
-- ### Devleoper Mode
+- ### Devleoper Mode: System Management --> About Phone --> Software Version
 
-System Management --> About Phone --> Software Version
-
-- ### Navigation
-
-Gestures
+- ### Navigation: Gestures
+- 
 # 
 
 Neo-Droid Setup<br>
