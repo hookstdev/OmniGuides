@@ -4,4 +4,4 @@ choco feature enable -n allowGlobalConfirmation
 choco upgrade chocolatey --force
 refreshenv
 choco install 7zip --pre 
-choco install vivaldi office-tool vlc files
+choco install vivaldi office-tool vlc files imageglass microsoft-windows-terminal
