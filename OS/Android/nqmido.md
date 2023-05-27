@@ -20,7 +20,7 @@ Wifi<br>
 - ### Devleoper Mode: System Management --> About Phone --> Software Version
 
 - ### Navigation: Gestures
-- 
+
 # 
 
 Neo-Droid Setup<br>
