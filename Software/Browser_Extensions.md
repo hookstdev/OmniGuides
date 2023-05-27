@@ -1,8 +1,9 @@
 # FireDragon:
 ## uBlock Origin
 [Chromium](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm)
+[Firefox](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
 
-![s](https://download.monin.net/f.php?h=3WKG8DKi&p=1)
+![](https://download.monin.net/f.php?h=3WKG8DKi&p=1)
 
 ## Other Addons
 
