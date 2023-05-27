@@ -5,7 +5,6 @@
 |K-9 Mail|[F-droid](https://f-droid.org/packages/com.fsck.k9/)|
 |Koler|[F-droid](https://f-droid.org/packages/com.chooloo.www.koler/)|
 |Osmand+|[F-droid](https://f-droid.org/en/packages/net.osmand.plus/)|
-|Mull|[F-droid](https://f-droid.org/en/packages/us.spotco.fennec_dos/)|
 |Arcticons Dark|[F-droid](https://f-droid.org/packages/com.donnnno.arcticons/)|
 |Aurora Store|[F-droid](https://f-droid.org/en/packages/com.aurora.store/)|
 |Binary Eye|[F-droid](https://f-droid.org/en/packages/de.markusfisch.android.binaryeye/)|
