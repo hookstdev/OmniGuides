@@ -23,8 +23,10 @@ Vivaldi<br>
 # 3. Set up all of the apps
 
 - ## FireDragon
+Create a Proton Account<br>
 Will be used for General Browsing, such as YT, Reddit, Discord, ProtonMail, Whatsapp Web
 - ## Vivaldi
+Use already existing Proton account<br>
 Will be used for Studying, Coding, etc.
 - ## [Extensions](https://github.com/hookstdev/OmniGuides/blob/omni/Software/Browser_Extensions.md)
 - ## Spotify
