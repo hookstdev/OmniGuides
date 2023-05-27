@@ -20,5 +20,16 @@ Vivaldi<br>
 - ## Reboot
 
 # 3. Set up all of the apps
+- ## Spotify
+```
+spotify
+curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.sh | sh
+sudo chmod a+wr /opt/spotify
+sudo chmod a+wr /opt/spotify/Apps -R
+spicetify
+spicetify backup apply
+curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.sh | sh
+```
+
 
 # [Proceed](https://github.com/hookstdev/OmniGuides/blob/omni/OS/Windows/Windows.md)
