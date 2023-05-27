@@ -4,11 +4,8 @@
 |Infinity|[F-droid](https://f-droid.org/packages/ml.docilealligator.infinityforreddit/)|
 |K-9 Mail|[F-droid](https://f-droid.org/packages/com.fsck.k9/)|
 |Koler|[F-droid](https://f-droid.org/packages/com.chooloo.www.koler/)|
-|Lawnchair|[IzzyOnDroid](https://android.izzysoft.de/repo/apk/app.lawnchair)|
 |Osmand+|[F-droid](https://f-droid.org/en/packages/net.osmand.plus/)|
-|Vendetta|[Github](https://github.com/vendetta-mod/VendettaManager/releases)| 
 |Mull|[F-droid](https://f-droid.org/en/packages/us.spotco.fennec_dos/)|
-|Amaze File Manager|[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.amaze.filemanager)|
 |Arcticons Dark|[F-droid](https://f-droid.org/packages/com.donnnno.arcticons/)|
 |Aurora Store|[F-droid](https://f-droid.org/en/packages/com.aurora.store/)|
 |Binary Eye|[F-droid](https://f-droid.org/en/packages/de.markusfisch.android.binaryeye/)|
@@ -21,7 +18,10 @@
 |Sharik|[F-droid](https://f-droid.org/en/packages/dev.marchello.sharik/)|
 |Voice Recorder|[F-droid](https://f-droid.org/en/packages/com.simplemobiletools.voicerecorder/)|
 |Spotiflyer|[F-droid](https://f-droid.org/packages/com.shabinder.spotiflyer/)|
+|Lawnchair|[IzzyOnDroid](https://android.izzysoft.de/repo/apk/app.lawnchair)|
+|Amaze File Manager|[IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.amaze.filemanager)|
 |XManager|[Github](https://github.com/xManager-App/xManager/releases/)|
+|Vendetta|[Github](https://github.com/vendetta-mod/VendettaManager/releases)| 
 
 # [Youtube Revanced](https://www.reddit.com/r/revancedapp/comments/xlcny9/revanced_manager_guide_for_dummies/)
 
