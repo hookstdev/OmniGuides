@@ -16,10 +16,17 @@ LibreOffice Fresh<br>
 Vivaldi<br>
 
 # 2. Software
+
 - ## Script
 - ## Reboot
 
 # 3. Set up all of the apps
+
+- ## FireDragon
+Will be used for General Browsing, such as YT, Reddit, Discord, ProtonMail, Whatsapp Web
+- ## Vivaldi
+Will be used for Studying, Coding, etc.
+- ## [Extensions](https://github.com/hookstdev/OmniGuides/blob/omni/Software/Browser_Extensions.md)
 - ## Spotify
 ```
 spotify
@@ -30,6 +37,6 @@ spicetify
 spicetify backup apply
 curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.sh | sh
 ```
-
+- ## Others
 
 # [Proceed](https://github.com/hookstdev/OmniGuides/blob/omni/OS/Windows/Windows.md)
