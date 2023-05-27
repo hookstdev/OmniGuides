@@ -14,8 +14,6 @@
 AppImage Launcher<br>
 LibreOffice Fresh<br>
 Vivaldi<br>
-ThunderBird<br>
-Discord<br>
 
 # 2. Software
 - ## Script
