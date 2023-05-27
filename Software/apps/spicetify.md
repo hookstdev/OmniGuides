@@ -1,5 +1,3 @@
-# Ensure That Spotify is logged in.
-
 ```
 spotify
 curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.sh | sh
