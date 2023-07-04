@@ -24,7 +24,7 @@ Vivaldi<br>
 
 - ## FireDragon
 Create a Proton Account<br>
-Will be used for General Browsing, such as YT, Reddit, Discord, ProtonMail, Whatsapp Web
+Will be used for General Browsing, such as YT, Reddit, Discord, ProtonMail.
 - ## Vivaldi
 Use already existing Proton account<br>
 Will be used for Studying, Coding, etc.
@@ -35,6 +35,8 @@ spotify
 curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-cli/master/install.sh | sh
 sudo chmod a+wr /opt/spotify
 sudo chmod a+wr /opt/spotify/Apps -R
+```
+```
 spicetify
 spicetify backup apply
 curl -fsSL https://raw.githubusercontent.com/spicetify/spicetify-marketplace/main/resources/install.sh | sh
