@@ -33,7 +33,6 @@
 
 ```
 Amaze Utilities
-Bitwarden
 Vivaldi
 Whatsapp
 Clock
