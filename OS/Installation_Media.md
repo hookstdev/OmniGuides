@@ -1,7 +1,7 @@
 [Ventoy](https://github.com/ventoy/Ventoy/releases/)<br>
 
 [Script](https://raw.githubusercontent.com/hookstdev/OmniGuides/omni/Software/Linux.txt)<br>
-[Garuda 230701](https://iso.builds.garudalinux.org/iso/garuda/dr460nized/230701/) <br>
+[Garuda 230701](https://iso.builds.garudalinux.org/iso/garuda/dr460nized/) <br>
 
 [Asus](https://www.asus.com/in/laptops/for-gaming/tuf-gaming/asus-tuf-gaming-f15/helpdesk_download/?model2Name=FX506LI)<br>
 [NvCleanstall](https://www.techpowerup.com/download/techpowerup-nvcleanstall/)<br>
