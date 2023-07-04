@@ -2,8 +2,6 @@
 ## uBlock Origin
 [Chromium](https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm) <br>
 
-![](https://download.monin.net/f.php?h=3WKG8DKi&p=1)
-
 ## Other Addons
 
 ### 1. Dark Reader<br>
